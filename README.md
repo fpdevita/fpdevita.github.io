@@ -3,7 +3,7 @@
 Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
-[CV](https://fpdevita.github.io/CV/FrankPDeVita8.2025.pdf)\
+[CV](https://fpdevita.github.io/CV/FPDeVitaCV.pdf)\
 <br>
 
 #### Papers
