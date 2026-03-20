@@ -17,10 +17,10 @@ A resistance of _representationalism_ in philosophy of mind and cognitive scienc
 ***[Science and Necessity: Epistemic Revision Under Modal Pressure.](https://fpdevita.github.io/Papers/Philosophy/ScienceandNecessity.pdf)*** 2025. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.32367.34729)_\
 An exigetical analysis of Kripke's theory of names and natural kinds used as a bedrock for understanding the semantics of knowledge expansion and revision in Kuhnian scientific revolutions.
 
-*Thesis:* ***[Information and Method: Logic for Translational Science.](https://fpdevita.github.io/Papers/Biotech/InformationandMethod.pdf)*** Advised by Stuart Firestein. 2018. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.26383.09122)_\
+***[Information and Method: Logic for Translational Science.](https://fpdevita.github.io/Papers/Biotech/InformationandMethod.pdf)*** Thesis. Advised by Stuart Firestein. 2018. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.26383.09122)_\
 Frames a theory of biomedical information, develops a system of predicate logic for genomics, and applies the method to complexities in treating _glioblastoma multiforme_.
 
-*Supervised Research:* ***[Science, Not Stigma: Perspectives on Blood Donor Controversy.](https://fpdevita.github.io/Papers/Bioethics/ScienceNotStigma.pdf)*** With Whitney MacDonald and FCB Health. 2018. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.13459.39200)_\
+***[Science, Not Stigma: Perspectives on Blood Donor Controversy.](https://fpdevita.github.io/Papers/Bioethics/ScienceNotStigma.pdf)*** Supervised Research. With Whitney MacDonald and FCB Health. 2018. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.13459.39200)_\
 Bioethical analysis of systematic discrimination in the U.S. blood donation scheme, including public comment submission to FDA and biotechnological solutions for HIV testing that eliminate ungrounded bias against male donors' sexual orientation.
 
 ***[Epistemic Pluralism.](https://fpdevita.github.io/Papers/Philosophy/EpistemicPluralism.pdf)*** 2018. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.27430.84800)_\
