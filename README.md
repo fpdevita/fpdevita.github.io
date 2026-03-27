@@ -8,22 +8,22 @@ Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu
 
 #### Research
 
-***[Can Artificial Intelligence Make High-Stakes Decisions?](https://fpdevita.github.io/Papers/Philosophy/AIDecision.pdf)*** 2025.
+***[Can Artificial Intelligence Make High-Stakes Decisions?](https://fpdevita.github.io/Papers/Philosophy/AIDecision.pdf)*** 2025.\
 Critical consideration of whether artificial intelligence technologies should be used in high stakes contexts e.g. medicine, law, and government, to make decisions that affect the the lives and welfare of individuals.
 
-***[On Moral Aggregation](https://fpdevita.github.io/Papers/Philosophy/MoralAggregation.pdf)*** 2025.
+***[On Moral Aggregation](https://fpdevita.github.io/Papers/Philosophy/MoralAggregation.pdf)*** 2025.\
 Explores the validity of the presupposition that well-being can and should be summed as a step in moral deliberation and practical decison making, as is common practice in pubic health and population sciences, and whether such aggregates capture aspects of reality.
 
-***[Gradualism, Moral Status, and Embryonic Ethics](https://fpdevita.github.io/Papers/Philosophy/EmbryonicEthics.pdf)*** 2025.
+***[Gradualism, Moral Status, and Embryonic Ethics](https://fpdevita.github.io/Papers/Philosophy/EmbryonicEthics.pdf)*** 2025.\
 Develops a theory of moral status grounded in neural development to produce action guiding principles for actions affecting embryos and fetuses enabled by contemporary reproductive technologies.
 
-***[Future Worlds](https://fpdevita.github.io/Papers/Philosophy/FutureWorlds.pdf)*** 2025.
+***[Future Worlds](https://fpdevita.github.io/Papers/Philosophy/FutureWorlds.pdf)*** 2025.\
 Engages with the Non-Identity Problem to sketch a possible worlds-based strategy for reasoning about ethical decision making in contexts where present actions will affect individuals who don't yet exist, but will.
 
-***[Modal Distance and the Mind Body Problem](https://fpdevita.github.io/Papers/Philosophy/ModalDistance.pdf)*** 2025.
+***[Modal Distance and the Mind Body Problem](https://fpdevita.github.io/Papers/Philosophy/ModalDistance.pdf)*** 2025.\
 Exegetical analysis of Kripke's denial of the necessity mind-brain identity in _Naming and Necessity_ contextualized with contemporary neuroscientific knowledge and contemporary philosophical positions.
 
-***[Value, Choice, and Experimental Trolleys](https://fpdevita.github.io/Papers/Philosophy/ExperimentalTrolleys.pdf)*** 2025.
+***[Value, Choice, and Experimental Trolleys](https://fpdevita.github.io/Papers/Philosophy/ExperimentalTrolleys.pdf)*** 2025.\
 Experimental paper critiquing approaches to decision making research in contemporary cognitive science with a proposal for experiments to investigate the role of value in moral decision making.
 
 ***[On Genetic Enhancement.](https://fpdevita.github.io/Papers/Bioethics/OnGeneticEnhancement.pdf)*** 2025. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.16642.80324)_\
