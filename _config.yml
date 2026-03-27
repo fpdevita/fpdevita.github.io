@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: Frank Peter DeVita
+title: Frank P. DeVita
 description: NYU Center for Bioethics
