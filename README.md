@@ -12,7 +12,7 @@ Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu
 Critical consideration of whether artificial intelligence technologies should be used in high stakes contexts e.g. medicine, law, and government, to make decisions that affect the the lives and welfare of individuals.
 
 ***[On Moral Aggregation](https://fpdevita.github.io/Papers/Philosophy/MoralAggregation.pdf)*** 2025.
-Explores the validity of the presupposition that well-being can and should be summed as a step in moral deliberaton and practical decisoon making, as is common practice in pubic health and population sciences, and whether such aggregates capture aspects of reality.
+Explores the validity of the presupposition that well-being can and should be summed as a step in moral deliberation and practical decison making, as is common practice in pubic health and population sciences, and whether such aggregates capture aspects of reality.
 
 ***[Gradualism, Moral Status, and Embryonic Ethics](https://fpdevita.github.io/Papers/Philosophy/EmbryonicEthics.pdf)*** 2025.
 Develops a theory of moral status grounded in neural development to produce action guiding principles for actions affecting embryos and fetuses enabled by contemporary reproductive technologies.
