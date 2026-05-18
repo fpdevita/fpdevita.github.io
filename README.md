@@ -1,4 +1,4 @@
-#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) and a research assistant with the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/)
+#### I'm a graduate student in the [NYU Center for Bioethics](https://wp.nyu.edu/centerforbioethics/) and a research assistant with the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/)
 
 I work on work on rationality, decision making, and topics in ethics, philosophy of mind, and epistemology, including the ethics of nonhuman minds, artificial intelligence, and the cognitive neuroscience of choice.
 
