@@ -1,4 +1,4 @@
-#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) working on rationality, decision making, and other topics in ethics, philosophy of mind, and epistemology. I'm also an assistant research scholar at the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/) working on the ethics of AI and non-human minds.
+#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) working on rationality, decision making, and topics in ethicc and philosophy of mind. I'm also a research assistant with the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/) working on the ethics of non-human minds.
 
 Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University. I also moonlight as a science writer in medical communications.
 
