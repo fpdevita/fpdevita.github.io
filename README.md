@@ -1,12 +1,18 @@
-#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) researching rationality, decision making, neuroethics, and ethics of emerging technologies.
+#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) working on rationality, decision making, and other topics in ethics, philosophy of mind, and epistemology. I'm also an assistant research scholar at the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/) working on the ethics of AI and non-human minds.
 
-Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University.
+Before that, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University. I also moonlight as a science writer in medical communications.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](https://fpdevita.github.io/CV/FPDeVitaCV.pdf)\
 <br>
 
 #### Research
+
+***[Sentience, Decision Theory, and Moral Worlds](https://fpdevita.github.io/Papers/Philosophy/MoralWorlds.pdf)*** 2026.\
+Explores the limits of sentientism about moral status and membership in the moral circle, and argues for a pluralism about moral rationality that embraces the possibility that mooral agents can coherently switch the moral frameworks they use to make practical decisions.
+
+***[How Should We Interpret Large Language Models?](https://fpdevita.github.io/Papers/Philosophy/LLMInterpretation.pdf)*** 2026.\
+Discusses issues around the interpretation of large language models, including confusions arising from using mentalistic language in AI theorizing and the shortcomings of interpretivism, and develops a non-interpretivist, neutral account of generalized propositional attitudes.
 
 ***[Can Artificial Intelligence Make High-Stakes Decisions?](https://fpdevita.github.io/Papers/Philosophy/AIDecision.pdf)*** 2025.\
 Critical consideration of whether artificial intelligence technologies should be used in high stakes contexts e.g. medicine, law, and government, to make decisions that affect the the lives and welfare of individuals.
