@@ -2,7 +2,7 @@
 
 I work on work on issues in ethics, the philosophy of mind, and philosophy of science. I'm interested in the nature of choice, the problem of intentionality, memory, sentience and moral status, and AI ethics.
 
-Before this, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University. I also moonlight as a science writer in medical communications.
+Before this, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University. I also freelance in strategic scientific communications.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](https://fpdevita.github.io/CV/FPDeVitaCV.pdf)\
