@@ -1,6 +1,6 @@
-#### I'm a graduate student in the [NYU Center for Bioethics](https://wp.nyu.edu/centerforbioethics/) and a research assistant in the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/)
+#### I'm a graduate student in the [NYU Center for Bioethics](https://wp.nyu.edu/centerforbioethics/), a Graduate Research Assistant in the [NYU Center for Mind, Ethics, and Policy](https://nonhumanminds.org/), and a Visiting Research Fellow at the [Cornell Tech Digital Life Initiative](https://dli.tech.cornell.edu).
 
-I work on work on rationality, decision making, and topics in ethics, philosophy of mind, and epistemology, including the ethics of nonhuman minds, artificial intelligence, and the cognitive neuroscience of choice.
+I work on work on issues in ethics, the philosophy of mind, and philosophy of science. I'm interested in the nature of choice, the problem of intentionality, memory, sentience and moral status, and AI ethics.
 
 Before this, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University. I also moonlight as a science writer in medical communications.
 
