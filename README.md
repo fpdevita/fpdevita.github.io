@@ -10,7 +10,7 @@ Before this, I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu
 
 #### Research
 
-***[Reporting Fears](https://fpdevita.github.io/Papers/Philosophy/ReportingFears.pdf)*** 2026.\
+**[Reporting *Fears*](https://fpdevita.github.io/Papers/Philosophy/ReportingFears.pdf)** 2026.\
 Explores the semantics of the intensional verb *fears* by reviewing discussions of it in analytic philosophy with particular focus on Prior’s puzzle—a Frege puzzle-like substitution failure of co-referential that-clauses and noun phrases that occurs under fears and some other intensional verbs, but not under believes. 
 
 ***[Sentience, Decision Theory, and Moral Worlds](https://fpdevita.github.io/Papers/Philosophy/MoralWorlds.pdf)*** 2026.\
